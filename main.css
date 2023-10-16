@@ -41,6 +41,10 @@ p, a{
   align-items: center;
   color: #000;
 }
+h2, a {
+  margin-left: 12px;
+ height: 50px;
+}
 p,a:hover {
   color: red;
 }
